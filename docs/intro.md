@@ -2,46 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
+Here is an outline of the main topics that could be covered in a JavaScript language reference manual:
 
-Let's discover **Docusaurus in less than 5 minutes**.
+1. Variables: This section would cover how to declare variables in JavaScript and the different types of variables available (e.g. strings, numbers, booleans). It would also explain how to assign values to variables and how to use variables in expressions and statements.
 
-## Getting Started
+2. Operators: This section would cover the various operators available in JavaScript, such as arithmetic operators (e.g. +, -, *, /), assignment operators (e.g. =, +=, -=), and comparison operators (e.g. ==, !=, <, >). It would also explain how to use operators in expressions and statements.
 
-Get started by **creating a new site**.
+3. Objects: This section would cover the concept of objects in JavaScript and how to create, access, and modify object properties. It would also explain how to use methods and constructors to create objects and how to use inheritance to create object hierarchies.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+4. Arrays: This section would cover the concept of arrays in JavaScript and how to create, access, and modify array elements. It would also explain how to use array methods to manipulate arrays and how to use arrays in combination with loops.
 
-### What you'll need
+5. ES6 Features: This section would cover the new features introduced in ECMAScript 6 (ES6), the latest version of JavaScript. This could include topics such as arrow functions, classes, template literals, and destructuring.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+6. Events: This section would cover how to use JavaScript to handle events, such as mouse clicks, form submissions, and page loading. It would explain how to attach event handlers to elements and how to use event objects to get information about the events.
 
-## Generate a new site
+7. APIs: This section would cover how to use JavaScript to access APIs, such as the fetch API, which allows you to make network requests to retrieve data from servers. It would explain how to use the fetch API to make GET and POST requests and how to handle the responses.
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+These are just a few of the main topics that could be covered in a JavaScript language reference manual. There are many other topics that could be included, such as functions, loops, conditional statements, regular expressions, and error handling.
