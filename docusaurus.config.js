@@ -59,9 +59,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'LBC Design System',
+        title: 'LBC Javascript Docusite',
         logo: {
-          alt: 'LBC Design System Logo',
+          alt: 'LBC Javascript Docusite Logo',
           src: 'img/logo.svg',
         },
         items: [
