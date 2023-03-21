@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Objetos
 In JavaScript, an object is a collection of key-value pairs, where the keys are strings and the values can be any JavaScript data type, including other objects. Objects are used extensively in JavaScript to represent complex data structures and provide a way to organize and manipulate data in a more intuitive way.
 

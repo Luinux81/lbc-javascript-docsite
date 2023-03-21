@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 # Variables
 In JavaScript, a variable is a container that stores a value. You can use variables to store a wide variety of data types, such as numbers, strings, booleans, and objects.
